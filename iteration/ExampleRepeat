@@ -1,0 +1,4 @@
+This is a function that is used for repeating any character
+5 times.
+Run 'go test' to have a test.
+Run 'go test -bench=.' to have a benchmark test.
