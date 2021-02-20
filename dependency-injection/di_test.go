@@ -1,8 +1,8 @@
 package main
 
 import (
-	"testing"
 	"bytes"
+	"testing"
 )
 
 func TestGreet(t *testing.T) {
